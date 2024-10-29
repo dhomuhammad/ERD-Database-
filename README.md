@@ -1,9 +1,7 @@
 ```
-apotek
+erd - database apotek
 NAMA  : RIDHA MUHAMMAD RIFQI
-
 KELAS  : TI.22.A.5
-
 NIM    : 312210491
 
 ```
